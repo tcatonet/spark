@@ -1,0 +1,10 @@
+AUTHOR = "author"
+WORD_LIST = "words_list"
+TOTAL = "Total"
+REPO = "repo"
+COMMIT = "commit"
+MESSAGE = "message"
+DIFF_MOUNTH = "diff_mounth"
+NAME_SPARK_REPO = "apache/spark"
+DATE_PATTERN = "EEE LLL dd HH:mm:ss yyyy ZZZZZ"
+
